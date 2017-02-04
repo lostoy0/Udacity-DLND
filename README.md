@@ -1,2 +1,2 @@
-# Udacity-DLND-Project-1
-Udacity-DLND-Project 1: Your first neural network
+# Udacity-DLND
+Project 1: Your first neural network
